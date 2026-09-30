@@ -154,3 +154,7 @@ blockquote { color: #6f6257; background: #fbf7f0; border-left: 3px solid #d4a477
   html { scroll-behavior: auto; }
   .button-primary, .carousel-slide { transition: none; }
 }
+.tag-list {
+  justify-content: center;
+  margin-left: 0;
+}
